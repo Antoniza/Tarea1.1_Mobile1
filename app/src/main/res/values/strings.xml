@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tarea 1.1</string>
+    
+    //Activity principal
+    <string name="cont_txt_num1">Primer Numero</string>
+    <string name="cont_txt_num2">Segundo Numero</string>
+    <string name="cont_btn_sum">Sumar</string>
+    <string name="cont_btn_res">Restar</string>
+    <string name="cont_btn_div">Dividir</string>
+    <string name="cont_btn_mul">Multiplicar</string>
+
+    //Segunda Activity
+    <string name="cont_view_result">Resultado:</string>
+    <string name="cont_view_answer">0</string>
+    <string name="cont_btn_back">Regresar</string>
+
+</resources>
